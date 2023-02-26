@@ -1,0 +1,50 @@
+body{
+    background-color: white;
+    padding: 0;
+}
+
+h1{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    
+    background-color: white;
+    margin: auto;
+    width: 600px;
+
+}
+
+p {
+    text-align: left;
+}
+
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+th{
+    text-align: left;
+}
+td {
+    width: 100px;
+    
+}
+

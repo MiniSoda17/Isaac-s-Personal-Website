@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    text-align: center;
+}
+
+
+

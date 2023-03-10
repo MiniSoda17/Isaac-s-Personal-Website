@@ -1,3 +1,8 @@
+body{
+    background-color: white;
+    padding: 0;
+}
+
 h1{
     color: red;
     font-family: 'Courier New', Courier, monospace;
@@ -5,15 +10,66 @@ h1{
 
 }
 
-
 .wrapper {
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
-p{
+.profileBanner {
+    display: flex;
+    margin: auto;
+    width: 800px;
+
+}
+
+.container {
+    
+    background-color: white;
+    margin: auto;
+    width: 600px;
+
+}
+
+hr{
+    background-color: black;
+    height: 2px;
+    width: 100%
+    
+}
+
+.ProfileTextBanner {
+    background-color: paleturquoise;
+    width: 600px;
+}
+
+
+
+.borderHeader{
+
     text-align: center;
 }
 
+p {
+    text-align: left;
+}
+
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table {
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+tr {
+    border-bottom: 1px solid black;
+    margin: 5px;
+}
+
+th{
+    text-align: left;
+    
+}
 
 
